@@ -1,0 +1,48 @@
+###############################################################################
+#                              TO DO's                                        #
+###############################################################################
+
+IMPORTANT LVL:
+
+(!) = Priority
+(~) = Medium
+(-) = Low
+(?) = Future
+
+TASKS:
+
+2) Adjust baseFile.py > def newFile to work with the remote archive GUI
+newFile.py (!)
+
+3) Make base GUI's for extFile.py and newFile.py (!)
+
+4) Make working GUI's for ext and new (actual writing capabilities) with appJar
+(~)
+
+5) Add loading and saving classes in dir base (~)
+
+6) Add commands (Possibly raw_input()) to control the GUI's (~)
+
+7) Organize more the source code (~)
+
+8) Add proper spacing and color to the GUI's (-)
+
+9) Add renaming and creating capabilities built-in (-)
+
+10) Add tree file view to navigate (-)
+
+11) Use icons for functions (?)
+
+12) SplashScreen (?)
+
+13) Modern looks (?)
+
+14) NavBar and StatusBar (?)
+
+15) Online capabilities (?)
+
+16) Show lines written (Like IDE) (?)
+
+17) Config files and actual GUI user changes (:D?)
+
+18) Make directory and rename From Editor (:D?)
